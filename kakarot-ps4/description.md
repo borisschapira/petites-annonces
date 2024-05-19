@@ -1,7 +1,7 @@
 ---
 status: "Très bon état"
 price: "10€"
-lbc: 
+lbc: https://www.leboncoin.fr/ad/jeux_video/2704516089
 ---
 
 # Dragon Ball Z Kakarot (PS4)

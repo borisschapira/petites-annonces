@@ -1,7 +1,7 @@
 ---
 status: "Très bon état"
 price: "10€"
-lbc: 
+lbc: https://www.leboncoin.fr/ameublement/2704450481.htm
 ---
 
 # Pente d'écriture Zieler Easy Writer
